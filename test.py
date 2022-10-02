@@ -1,6 +1,2 @@
-N = input()
-N -= 1
-print(N)
-# for i in N:
-#     print(i)
-# print(N.split())
+lst = list('mirkovC4nizCC44')
+print(lst[1:5:2])
