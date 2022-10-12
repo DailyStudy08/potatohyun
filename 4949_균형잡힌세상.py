@@ -3,6 +3,7 @@ stack_4949.균형잡힌세상
 https://www.acmicpc.net/problem/4949
 '''
 
+
 while True:
     sentence = list(input())
     if sentence[0] == '.':

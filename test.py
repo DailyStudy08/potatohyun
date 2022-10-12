@@ -1,2 +1,4 @@
-lst = list('mirkovC4nizCC44')
-print(lst[1:5:2])
+aaa = '2 / 1'
+lst = list(aaa.split())
+print(aaa)
+print(*lst)
